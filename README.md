@@ -81,11 +81,13 @@ Prerequisites
 
 - [Abhishek Soni](https://github.com/abhi270794)
 
+- [ANURUDDH](https://github.com/HelloMoto069)
+
 - [Akhil Gupta](https://github.com/Akhilg-02)
 
 - [Utkarsh dalmia](https://github.com/Udalmia)
 
-- [ANURUDDH](https://github.com/HelloMoto069)
+
 
 
 
